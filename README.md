@@ -5,3 +5,9 @@
 - <h3>Telegram QR Code Generator Bot </h3>
 <p>
 The Telegram QR Code Generator Bot is a Python-based project that allows users to generate QR codes through a Telegram bot. This bot provides a simple and convenient way to create QR codes for various types of data such as URLs, text, contact information, and more, all within the Telegram app.</p>
+
+[Telegram QR Code](https://github.com/moaml1999/SimplePythonProject/tree/main/QRcode/ "QR code")
+
+[Telegram QR bot](https://t.me/gene_qr_testbot "QR bot")
+
+
